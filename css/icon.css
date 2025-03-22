@@ -1,0 +1,23 @@
+.social-icon {
+    width: 36px;
+    height: 36px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.social-icon:hover {
+    background-color: white;
+}
+
+.social-icon:hover i {
+    color: #1a4d8c;
+}
+
+.social-icon i {
+    color: white;
+    font-size: 16px;
+}
