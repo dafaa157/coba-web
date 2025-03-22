@@ -41,6 +41,6 @@ project-root/
 
 ## 5. Link Hosting
 Akses di sini : 
-[link](#https://dafaa157.github.io/coba-web/index.html)
+[link](https://dafaa157.github.io/coba-web/index.html)
 
 ---
