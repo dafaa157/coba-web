@@ -16,24 +16,24 @@ Mendukung autentikasi dan akses terpisah untuk dosen, mahasiswa, dan admin.
 
 | Desktop | Mobile |
 |--------|--------|
-| ![Login Desktop](./assets/image/doc/login.png) | ![Login Mobile](./assets/image/doc/login2.png) |
+| ![Login Desktop](assets/image/doc/login.png) | ![Login Mobile](assets/image/doc/login2.png) |
 
 ### b. Halaman Dashboard
 
 #### - Admin
 | Desktop | Mobile |
 |--------|--------|
-| ![Admin Desktop](./assets/image/doc/admin1.png) | ![Admin Mobile](./assets/image/doc/admin2.png) |
+| ![Admin Desktop](assets/image/doc/admin1.png) | ![Admin Mobile](assets/image/doc/admin2.png) |
 
 #### - Dosen
 | Desktop | Mobile |
 |--------|--------|
-| ![Dosen Desktop](./assets/image/doc/dosen1.png) | ![Dosen Mobile](./assets/image/doc/dosen2.png) |
+| ![Dosen Desktop](assets/image/doc/dosen1.png) | ![Dosen Mobile](assets/image/doc/dosen2.png) |
 
 #### - Mahasiswa
 | Desktop | Mobile |
 |--------|--------|
-| ![Mahasiswa Desktop](./assets/image/doc/murid1.png) | ![Mahasiswa Mobile](./assets/image/doc/murid2.png) |
+| ![Mahasiswa Desktop](assets/image/doc/murid1.png) | ![Mahasiswa Mobile](assets/image/doc/murid2.png) |
 
 ---
 
@@ -44,32 +44,32 @@ Mendukung autentikasi dan akses terpisah untuk dosen, mahasiswa, dan admin.
 - **Kelola Data Dosen**
 
   - Tampilan Awal + Hasil Delete  
-    ![](./assets/image/doc/fit-adm-dd.png)
+    ![](assets/image/doc/fit-adm-dd.png)
 
   - Form Edit  
-    ![](./assets/image/doc/fit-adm-de.png)
+    ![](assets/image/doc/fit-adm-de.png)
 
   - Form Tambah  
-    ![](./assets/image/doc/fit-adm-dt.png)
+    ![](assets/image/doc/fit-adm-dt.png)
 
 - **Kelola Data Mahasiswa**  
-  ![](./assets/image/doc/adm-kel-dm.png)
+  ![](assets/image/doc/adm-kel-dm.png)
 
 - **Kelola Data Mata Kuliah**  
-  ![](./assets/image/doc/adm-kel-dmatk.png)
+  ![](assets/image/doc/adm-kel-dmatk.png)
 
 - **Kelola Data Semester**  
-  ![](./assets/image/doc/adm-kel-ds.png)
+  ![](assets/image/doc/adm-kel-ds.png)
 
 - **Kelola Data Kelas**  
   - Tampilan Awal  
-    ![](./assets/image/doc/fit-adm-dkls.png)
+    ![](assets/image/doc/fit-adm-dkls.png)
 
   - Atur Dosen  
-    ![](./assets/image/doc/fit-adm-ad.png)
+    ![](assets/image/doc/fit-adm-ad.png)
 
   - Atur Mahasiswa  
-    ![](./assets/image/doc/fit-adm-am.png)
+    ![](assets/image/doc/fit-adm-am.png)
 
 ---
 
@@ -77,16 +77,16 @@ Mendukung autentikasi dan akses terpisah untuk dosen, mahasiswa, dan admin.
 
 - **Kelola Jenis Penilaian**  
   - Tampilan Awal  
-    ![](./assets/image/doc/fit-dos-tpjen.png)
+    ![](assets/image/doc/fit-dos-tpjen.png)
 
   - Edit Jenis Penilaian  
-    ![](./assets/image/doc/fit-dos-tpedjen.png)
+    ![](assets/image/doc/fit-dos-tpedjen.png)
 
 - **Kelola Bobot Nilai**  
-  ![](./assets/image/doc/fit-dos-tpbob.png)
+  ![](assets/image/doc/fit-dos-tpbob.png)
 
 - **Kelola Nilai Mahasiswa**  
-  ![](./assets/image/doc/fit-dos-tpnil.png)
+  ![](assets/image/doc/fit-dos-tpnil.png)
 
 ---
 
