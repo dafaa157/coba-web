@@ -11,137 +11,94 @@ Mendukung autentikasi dan akses terpisah untuk dosen, mahasiswa, dan admin.
 -  **CRUD**
 
 ## 3. Screenshot Implementasi
-### a. Halaman Login
-<div style="display: flex; gap: 20px;">
-  <div>
-    <img src="./assets/image/doc/login.png" width="100%">
-    <p style="text-align: center;">Desktop</p>
-  </div>
-  <div>
-    <img src="assets/image/doc/login2.png"width="100%">
-    <p style="text-align: center;">Mobile</p>
-  </div>
-</div>
 
+### a. Halaman Login
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Login Desktop](./assets/image/doc/login.png) | ![Login Mobile](./assets/image/doc/login2.png) |
 
 ### b. Halaman Dashboard
-- Admin
-<div style="display: flex; gap: 20px;">
-  <div>
-    <img src="assets/image/doc/admin1.png" width="100%">
-    <p style="text-align: center;">Desktop</p>
-  </div>
-  <div>
-    <img src="assets/image/doc/admin2.png" width="100%">
-    <p style="text-align: center;">Mobile</p>
-  </div>
-</div>
 
-- Dosen
-<div style="display: flex; gap: 20px;">
-  <div>
-    <img src="assets/image/doc/dosen1.png" width="100%">
-    <p style="text-align: center;">Desktop</p>
-  </div>
-  <div>
-    <img src="assets/image/doc/dosen2.png" width="100%">
-    <p style="text-align: center;">Mobile</p>
-  </div>
-</div>
+#### - Admin
+| Desktop | Mobile |
+|--------|--------|
+| ![Admin Desktop](./assets/image/doc/admin1.png) | ![Admin Mobile](./assets/image/doc/admin2.png) |
 
-- Mahasiswa
-<div style="display: flex; gap: 20px;">
-  <div>
-    <img src="assets/image/doc/murid1.png"width="100%">
-    <p style="text-align: center;">Desktop</p>
-  </div>
-  <div>
-    <img src="assets/image/doc/murid2.png" width="100%">
-    <p style="text-align: center;">Mobile</p>
-  </div>
-</div>
+#### - Dosen
+| Desktop | Mobile |
+|--------|--------|
+| ![Dosen Desktop](./assets/image/doc/dosen1.png) | ![Dosen Mobile](./assets/image/doc/dosen2.png) |
+
+#### - Mahasiswa
+| Desktop | Mobile |
+|--------|--------|
+| ![Mahasiswa Desktop](./assets/image/doc/murid1.png) | ![Mahasiswa Mobile](./assets/image/doc/murid2.png) |
+
+---
 
 ### c. Fitur-Fitur
+
 #### 1. Bagian Admin
-1.1 Kelola Data Dosen 
-- Tampilan Awal + Hasil Delete
-<div style="gap: 20px;">
-  <div>
-  <img src="assets/image/doc/fit-adm-dd.png" width="100%">
-  </div>
-</div>
 
-- Tampilan Form Edit 
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-adm-de.png" width="100%">
-</div>
+- **Kelola Data Dosen**
 
-- Kelola Data Dosen (Tampilan Form Tambah)
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-adm-dt.png" width="100%">
-</div>
+  - Tampilan Awal + Hasil Delete  
+    ![](./assets/image/doc/fit-adm-dd.png)
 
-1.2 Kelola Data Mahasiswa
-<div style="gap: 20px;">
-  <img src="assets/image/doc/adm-kel-dm.png" width="100%">
-</div>
+  - Form Edit  
+    ![](./assets/image/doc/fit-adm-de.png)
 
-1.3 Kelola Data Mata Kuliah
-<div style="gap: 20px;">
-  <img src="assets/image/doc/adm-kel-dmatk.png" width="100%">
-</div>
+  - Form Tambah  
+    ![](./assets/image/doc/fit-adm-dt.png)
 
-1.4 Kelola Data Semester
-<div style="gap: 20px;">
-  <img src="assets/image/doc/adm-kel-ds.png" width="100%">
-</div>
+- **Kelola Data Mahasiswa**  
+  ![](./assets/image/doc/adm-kel-dm.png)
 
-1.5 Kelola Data Kelas 
-- Tampilan Awal
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-adm-dkls.png" width="100%">
-</div>
+- **Kelola Data Mata Kuliah**  
+  ![](./assets/image/doc/adm-kel-dmatk.png)
 
-- Atur Dosen
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-adm-ad.png" width="100%">
-</div>
+- **Kelola Data Semester**  
+  ![](./assets/image/doc/adm-kel-ds.png)
 
-- Atur Mahasiswa
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-adm-am.png" width="100%">
-</div>
+- **Kelola Data Kelas**  
+  - Tampilan Awal  
+    ![](./assets/image/doc/fit-adm-dkls.png)
 
+  - Atur Dosen  
+    ![](./assets/image/doc/fit-adm-ad.png)
+
+  - Atur Mahasiswa  
+    ![](./assets/image/doc/fit-adm-am.png)
+
+---
 
 #### 2. Bagian Dosen
-2.1 Kelola Jenis Penilaian
-- Tampilan Awal
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-dos-tpjen.png"  width="100%">
-</div>
 
-- Edit Jenis Penilaian
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-dos-tpedjen.png"  width="100%">
-</div>
-2.2 Kelola Bobot Nilai
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-dos-tpbob.png" width="100%">
-</div>
-2.3 Kelola Nilai Mahasiswa
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-dos-tpnil.png" width="100%">
-</div>
+- **Kelola Jenis Penilaian**  
+  - Tampilan Awal  
+    ![](./assets/image/doc/fit-dos-tpjen.png)
+
+  - Edit Jenis Penilaian  
+    ![](./assets/image/doc/fit-dos-tpedjen.png)
+
+- **Kelola Bobot Nilai**  
+  ![](./assets/image/doc/fit-dos-tpbob.png)
+
+- **Kelola Nilai Mahasiswa**  
+  ![](./assets/image/doc/fit-dos-tpnil.png)
+
+---
 
 #### 3. Bagian Mahasiswa
-3.1 Penampilan Transkrip Nilai
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-mhs-tptnil.png" width="100%">
-</div>
-3.2 Penampilan Kalkulator Nilai Akhir
-<div style="gap: 20px;">
-  <img src="assets/image/doc/fit-dos-tpnil.png"  width="100%">
-</div>
+
+- **Transkrip Nilai**  
+  ![](./assets/image/doc/fit-mhs-tptnil.png)
+
+- **Kalkulator Nilai Akhir**  
+  ![](./assets/image/doc/fit-dos-tpnil.png)
+
+---
 
 ## 4. Struktur Folder
 ```plaintext
