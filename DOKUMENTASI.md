@@ -14,7 +14,7 @@ Mendukung autentikasi dan akses terpisah untuk dosen, mahasiswa, dan admin.
 ### a. Halaman Login
 <div style="display: flex; gap: 20px;">
   <div>
-    <img src="assets/image/doc/login.png" width="100%">
+    <img src="./assets/image/doc/login.png" width="100%">
     <p style="text-align: center;">Desktop</p>
   </div>
   <div>
